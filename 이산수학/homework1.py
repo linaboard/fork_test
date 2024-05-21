@@ -1,3 +1,4 @@
+#test
 num_vertices = 5 #정점 개수
 num_edges = 6    #간선 개수
 
